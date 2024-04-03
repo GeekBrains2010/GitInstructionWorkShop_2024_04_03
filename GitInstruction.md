@@ -1,5 +1,9 @@
 # Инструкция по работе с git
+1. git checkout branch1
 
+2. git checkout branch2
+
+3. git checkout main
 ## Что это и для чего нужна система контроля версий?
 
 ### Что такое система контроля версий?
